@@ -86,4 +86,6 @@ transform.translation = Vec3::new(t[0] as f32, t[1] as f32, t[2] as f32);
 
 ## Licence
 
-`GPL-2.0-or-later`, comme `tiny-rodriguez-std`. Copiez le fichier `LICENSE` de ce dépôt à la racine. `libm` est sous MIT.
+`GPL-2.0-or-later`.
+
+# Copyright (C) 2026 Jorge Andre Castro

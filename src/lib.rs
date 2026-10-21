@@ -1,5 +1,5 @@
 //! # tiny-rodriguez-nostd
-//!
+//! Copyright (C) 2026 Jorge Andre Castro
 //! Bibliothèque minimale de **géométrie différentielle** pour la robotique et
 //! les drones, version `#![no_std]` de `tiny-rodriguez-std` :
 //!
